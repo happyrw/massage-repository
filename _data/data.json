@@ -1,0 +1,39 @@
+{
+  "initialTestimonies": [
+    {
+      "name": "John Doe, CEO of Tech Innovators",
+      "content": "Working with J. Happy was a game-changer for our project. Their expertise and dedication helped us achieve our goals seamlessly and on time. I highly recommend their services!",
+      "id": "ad43"
+    },
+    {
+      "name": "Jane Smith, Senior Developer at Creative Solutions",
+      "content": "I had the pleasure of collaborating with Happy on several complex projects. Their innovative approach and problem-solving skills are truly exceptional. A true asset to any team!",
+      "id": "b17d"
+    },
+    {
+      "name": "Emily Johnson, Project Manager at NextGen Enterprises",
+      "content": "J. Happy consistently delivered top-notch results, exceeding our expectations every time. Their professionalism and attention to detail are unmatched. Highly recommended!",
+      "id": "1fa0"
+    },
+    {
+      "name": "Michael Brown, CTO of Future Tech Labs",
+      "content": "From concept to execution, Happy brought our ideas to life with incredible skill and creativity. Their ability to understand our needs and deliver high-quality work is commendable.",
+      "id": "bf0c"
+    },
+    {
+      "name": "Sarah Lee, UX Designer at Pixel Perfect Studio",
+      "content": "J. Happy's talent and dedication to their craft are evident in every project they undertake. Their ability to blend creativity with technical expertise is truly impressive.",
+      "id": "95e3"
+    },
+    {
+      "name": "David Wilson, Founder of StartUp Innovations",
+      "content": "Partnering with Fumbwe was one of the best decisions we made. Their insights and solutions were instrumental in the success of our launch. A true professional!",
+      "id": "5471"
+    },
+    {
+      "id": "7f4c",
+      "name": "God will, CEO in hub jeskys",
+      "content": "I had the pleasure of collaborating with Happy on several complex projects. Their innovative approach and problem-solving skills are truly exceptional. A true asset to any team!"
+    }
+  ]
+}
